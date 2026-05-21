@@ -1,5 +1,5 @@
 {
-  "name": "Trading 212 Clone",
+  "name": "Trading 212 Practice Arena",
   "description": "A high-fidelity trading and investing application mimicking Trading 212, featuring real-time interactive charts, search, watchlists, portfolio tracking, order kinds (Market/Limit), fractional shares, CFD leverage trading, and an embedded AI Financial copilot.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
